@@ -1,0 +1,26 @@
+{
+    "data1": {
+      "DNI": "00306289",
+      "CUIL": "20223062825",
+      "FirstName": "Albert",
+      "LastName": "Einstein",
+      "Email": "example@gmail.com",
+      "Phone": "3517000409",
+      "Street": "avenida sur",
+      "StreetHeight": "4080",
+      "PostalCode": "5000",
+      "CBU": "0170231820000000010500"
+    },
+    "data2":{
+        "DNI": "00406282",
+        "CUIL": "20234072825",
+        "FirstName": "Robert",
+        "LastName": "Oppenheimer",
+        "Email": "example2@gmail.com",
+        "Phone": "3617000409",
+        "Street": "avenida norte",
+        "StreetHeight": "7080",
+        "PostalCode": "6000",
+        "CBU": "0170231820000000010500"
+    }
+  }

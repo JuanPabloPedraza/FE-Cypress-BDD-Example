@@ -1,0 +1,22 @@
+{
+  "name": "cypress-cucumber-boilerplate",
+  "version": "2.2.0",
+  "description": "cypress bdd",
+  "main": "index.js",
+  "scripts": {
+    "cypress:runner": "cypress open --e2e --browser chrome",
+    "cypress:execution": "cypress run --spec cypress/e2e/features/*"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "juan pablo pedraza",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^12.15.0",
+    "cypress-xpath": "^2.0.1",
+    "esbuild": "^0.16.4"
+  }
+}
